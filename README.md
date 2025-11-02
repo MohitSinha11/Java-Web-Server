@@ -32,10 +32,18 @@ It demonstrates how concurrency improves server performance and responsiveness.
 
 ## ⚡ How to Run
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/MohitSinha11/Java-Web-Server.git
-2.	Open the folder in your IDE (VS Code / IntelliJ / Eclipse).
-3.	Compile and run any of the main server files:
-   javac <filename>.java
-   java <MainClassName>
+   cd Java-Web-Server
+2.	Open the project in your preferred IDE — VS Code, IntelliJ, or Eclipse.
+3.	Compile all Java files:
+   javac *.java
+4.Run the Server and Client in separate terminals:
+   java Server
+  	java Client
+5.	The server will start listening for client requests.
+   Once the client connects, it will send a request and display the response received from the server.
+
+   
+
