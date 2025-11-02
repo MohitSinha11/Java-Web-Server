@@ -28,8 +28,6 @@ It demonstrates how concurrency improves server performance and responsiveness.
 
 ---
 
----
-
 ## ⚡ How to Run
 
 1. **Clone the repository:**
